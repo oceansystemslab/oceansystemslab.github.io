@@ -21,7 +21,7 @@ The **Ocean Systems Laboratory** is a multidisciplinary science and engineering 
 Its research and training focus is on the broad classes of physical and cognitive interactions between robots, people, environments and autonomous systems. It has over 30 years of experience in AUVs and marine robotics, creating internationally successful businesses and contributing to Marine Science & Technology Scotland.
 
 
-The Ocean Systems Laboratory is part of the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/), and the [National Robotarium](https://thenationalrobotarium.com/). Currently, led by Prof. Yvan Petillot, the lab is comprised of several academics, postdocs and PhD students. 
+The Ocean Systems Laboratory is part of the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/), and the [National Robotarium](https://thenationalrobotarium.com/). Currently, led by [Prof. Yvan Petillot](https://researchportal.hw.ac.uk/en/persons/yvan-petillot), the lab is comprised of several academics, postdocs and PhD students. 
 
 
 We currently have many openings, so if you are interested in doing a postdoc or a PhD please contact: ignacio.carlucho@hw.ac.uk 
