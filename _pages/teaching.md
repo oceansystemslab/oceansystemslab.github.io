@@ -81,11 +81,12 @@ nav_order: 5
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/profiles/Pierre.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
-     <b> Pierre Nicolay </b>| Personal page  <br>
-     TBD <br>
+     <b> Pierre Nicolay </b>| <a href="https://www.edinburgh-robotics.org/students/pierre-nicolay">Personal page</a>  <br>
+     Project title: Lifelong Learning for Vision based AUV Control <br>
+     The main objective is to design a low-level controller for autonomous underwater vehicles (AUVs) using learning frameworks. The algorithm should be portable across multiple robots, The controller should adapt quickly to any change in the dynamics (increase of payload, current disturbances, damage to the robot, thruster efficiency decay, etc...)
     </div>
   </div>
 
@@ -97,7 +98,7 @@ nav_order: 5
     </div>
     <div class="col-10">
      <b> Ellis Niamh </b>| Personal page  <br>
-     TBD <br>
+     Project title: Digital Twin for Safety: Underwater semi-autonomous inspection <br>
     </div>
   </div>
 
@@ -109,13 +110,24 @@ nav_order: 5
     </div>
     <div class="col-10">
      <b> Zebin Huang </b>| Personal page  <br>
-     TBD <br>
+     Project title: Assured Underwater Data Acquisition <br>
     </div>
   </div>
 
 <hr>
 
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Michelle Grimaldi </b>| Personal page  <br>
+     Project title: Underwater inspection and planning for robust scene identification and advanced
+manipulation <br>
+    </div>
+  </div>
 
+<hr>
 
 
 ## Past members 
