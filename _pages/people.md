@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Current people in the Ocean Systems Lab
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
 
@@ -55,8 +55,8 @@ nav_order: 5
       {% include figure.html path="assets/img/profiles/markus.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
-     <b>  Dr. Markus Buchholz  </b> | Personal page <br>
-     TBD <br>
+     <b>  Dr. Markus Buchholz  </b> | <a href="https://github.com/markusbuchholz">Personal page</a>  <br>
+     Markus is a software and robotics professional with a Ph.D. in Mechatronics. With over 20 years of experience, he has dedicated his career to the intricate nuances of robotics and its advancements.Currently, Markus's research is centered on motion planning and manipulation in underwater robotics. His expertise in this niche area showcases his commitment to pushing the boundaries of what's possible in the field. Beyond his academic contributions, Markus's expertise has led to the development of cutting-edge technologies and methodologies. His innovative approach has been recognized with two patents in robotics. <br>
     </div>
   </div>
 

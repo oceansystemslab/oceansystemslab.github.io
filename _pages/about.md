@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.hw.ac.uk/'>Heriot-Watt University</a>.
 
