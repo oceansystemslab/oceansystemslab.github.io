@@ -22,7 +22,7 @@ nav_order: 1
     </div>
   </div>
 
-<hr>
+<br>
 
 <div class="row align-items-center">
     <div class="col-2">
@@ -34,7 +34,7 @@ nav_order: 1
     </div>
   </div>
 
-<hr>
+<br>
 
   <div class="row align-items-center">
     <div class="col-2">
@@ -62,7 +62,7 @@ nav_order: 1
 
 
 
-<hr>
+<br>
 
   <div class="row align-items-center">
     <div class="col-2">
@@ -77,7 +77,7 @@ nav_order: 1
 <hr>
 
 
-## PhDs
+## PhD candidates
 
   <div class="row align-items-center">
     <div class="col-2">
@@ -86,11 +86,11 @@ nav_order: 1
     <div class="col-10">
      <b> Pierre Nicolay </b>| <a href="https://www.edinburgh-robotics.org/students/pierre-nicolay">Personal page</a>  <br>
      Project title: Lifelong Learning for Vision based AUV Control <br>
-     The main objective is to design a low-level controller for autonomous underwater vehicles (AUVs) using learning frameworks. The algorithm should be portable across multiple robots, The controller should adapt quickly to any change in the dynamics (increase of payload, current disturbances, damage to the robot, thruster efficiency decay, etc...)
+     The main objective is to design a low-level controller for autonomous underwater vehicles (AUVs) using learning frameworks. The algorithm should be portable across multiple robots. The controller should adapt quickly to any change in the dynamics (e.g. increase of payload, current disturbances or thruster efficiency decay)
     </div>
   </div>
 
-<hr>
+<br>
 
   <div class="row align-items-center">
     <div class="col-2">
@@ -102,7 +102,7 @@ nav_order: 1
     </div>
   </div>
 
-<hr>
+<br>
 
   <div class="row align-items-center">
     <div class="col-2">
@@ -114,16 +114,31 @@ nav_order: 1
     </div>
   </div>
 
-<hr>
+<br>
 
   <div class="row align-items-center">
     <div class="col-2">
       {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
-     <b> Michelle Grimaldi </b>| Personal page  <br>
+     <b> Michele Grimaldi </b>| Personal page  <br>
      Project title: Underwater inspection and planning for robust scene identification and advanced
 manipulation <br>
+    </div>
+  </div>
+
+<hr>
+
+## Master students
+
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/michael.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Michael Kirby </b> <br>
+     Supervisors: Dr. Maria Koskinopoulou and Dr. Ignacio Carlucho <br>
+     Project title: Vision-based Navigation and Planning of Underwater Vehicles  <br>
     </div>
   </div>
 
