@@ -133,7 +133,7 @@ manipulation <br>
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/michael.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/profiles/michael.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Michael Kirby </b> <br>
@@ -145,4 +145,3 @@ manipulation <br>
 <hr>
 
 
-## Past members 
