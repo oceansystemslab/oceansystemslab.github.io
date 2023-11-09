@@ -109,8 +109,10 @@ nav_order: 1
       {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
-     <b> Zebin Huang </b>| Personal page  <br>
+     <b> Zebin Huang </b>| <a href="https://zebinhuang.com/">Personal page</a> <br>
      Project title: Assured Underwater Data Acquisition <br>
+     Education: MSc in Human and Biological Robotics, Imperial College London, 2021; <br> BEng in Ocean Technology & BEng in Computer Science and Technology, Dalian University of Technology, 2020 <br>
+     Research interests: robotics, reinforcement learning, and human-machine interaction <br>
     </div>
   </div>
 
