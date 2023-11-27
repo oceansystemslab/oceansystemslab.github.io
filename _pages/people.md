@@ -129,6 +129,7 @@ manipulation <br>
     </div>
   </div>
 
+<br>
 
  <div class="row align-items-center">
     <div class="col-2">
@@ -138,6 +139,18 @@ manipulation <br>
      <b> Adip Das </b>| <a href="https://github.com/adipdas11/">Personal page</a> <br>
      Project title: Dual-robot manipulation in industrial settings for assembly and disassembly electronic equipment and coordinated actions between human workers and robotic agents using machine learning. <br>
      Project description: This thesis addresses the understudied aspects of robotic assembly and disassembly in the context of the Fourth Industrial Revolution. The focus is on developing a fully autonomous system capable of efficiently performing assembly and disassembly tasks, considering the entire chain from design to reassembly. The main objective is to enhance the speed and affordability of production by implementing a vision-based robotic system for electronic equipment assembly/disassembly in industrial setups. The research aims to address uncertainties in end-of-life products without prior product-specific knowledge and explores the potential of physical human-robot collaboration in achieving economic feasibility. The project utilizes technologies for dual-robot manipulation, physical interaction, and machine-learning algorithms. <br>
+    </div>
+  </div>
+
+<br>
+
+ <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/sumer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Sümer Tunçay </b>| Personal page</a> <br>
+     Project title: Towards collaborative inspections with multi-agent robotic systems via reinforcement learning. <br>
     </div>
   </div>
 
