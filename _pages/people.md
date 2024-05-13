@@ -74,6 +74,19 @@ nav_order: 1
     </div>
   </div>
 
+<br>
+
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/VBweb.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b>  Dr. Juliette Drupt </b> | <a href="https://scholar.google.com/citations?user=NCVrNhIAAAAJ&hl=fr">Personal page</a> <br>
+     Project description: TBD <br>
+    </div>
+  </div>
+
+
 <hr>
 
 
@@ -94,7 +107,7 @@ nav_order: 1
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/niamh.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Ellis Niamh </b>| Personal page  <br>
@@ -120,7 +133,7 @@ nav_order: 1
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/michele.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Michele Grimaldi </b>| Personal page  <br>
@@ -155,6 +168,16 @@ manipulation <br>
   </div>
 
 <br>
+
+ <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/favour.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Favour Adetunji </b>| Personal page</a> <br>
+     Project title: Cable and pipe tracking for underwater autonomous vehicles. <br>
+    </div>
+  </div>
 
 <hr>
 
