@@ -63,7 +63,7 @@ We have three BlueROVs with different configurations, one with 3D sonar and ster
   </div>
   <div class="col-md-6">
     {% include figure.html 
-        path="assets/img/facilities/blurov_arm_b.png" 
+        path="assets/img/facilities/rov_arm_b.png" 
         title="Example image 2" 
         class="img-fluid rounded z-depth-1" %}
   </div>
