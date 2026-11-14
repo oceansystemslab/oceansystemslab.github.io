@@ -23,6 +23,7 @@ const leaderCard = p => `<article class="leader">${portrait(p, 'leader-photo')}<
   <p class="bio">${esc(p.bio)}</p>
 </div></article>`;
 if ($('#academics-list')) $('#academics-list').innerHTML = academics.map(leaderCard).join('');
+if ($('#alumni-list') && typeof alumni !== 'undefined') $('#alumni-list').innerHTML = alumni.map(memberCard).join('');
 [['#postdocs-list', typeof postdocs !== 'undefined' && postdocs], ['#phd-list', typeof phdStudents !== 'undefined' && phdStudents], ['#researchers-list', typeof researchers !== 'undefined' && researchers]]
   .forEach(([sel, list]) => { if ($(sel) && list) $(sel).innerHTML = list.map(memberCard).join(''); });
 
